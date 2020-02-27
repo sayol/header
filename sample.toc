@@ -1,0 +1,2 @@
+\contentsline {chapter}{\numberline {១}សមីការដឺក្រេទី២}{១}{chapter.1}% 
+\contentsline {section}{\numberline {១}សមីការដឺក្រេទី២}{១}{section.1.1}% 
